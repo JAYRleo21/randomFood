@@ -1,0 +1,1071 @@
+[
+    {
+        "id": "xEADIy0rRV",
+        "name": "papa con huevo",
+        "ranking": "3",
+        "difficulty_ma": 1,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "wyK8aGX6Af",
+                "name": "huevo",
+                "cost": 7
+            }
+        ],
+        "cost": 19,
+        "lajwa": true,
+        "rnk_karla": 3,
+        "rnk_andy": 3,
+        "rnk_juan": 3,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "85d7Hh3cJa",
+        "name": "falso conejo",
+        "ranking": "3.25",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "EEEthcHeqL",
+                "name": "Fideo",
+                "cost": 3.5
+            },
+            {
+                "ingredient_id": "l3yWFOks9m",
+                "name": "C. pulpa",
+                "cost": 48
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "VlP8PoKVy7",
+                "name": "verduras",
+                "cost": 5
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            }
+        ],
+        "cost": 63.5,
+        "lajwa": false,
+        "rnk_karla": 4,
+        "rnk_andy": 3,
+        "rnk_juan": 3,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "76zFuqA3mm",
+        "name": "aji de lenteja",
+        "ranking": "4",
+        "difficulty_ma": 3,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "peqRDSnwXy",
+                "name": "lentejas",
+                "cost": 5
+            },
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 15,
+        "lajwa": false,
+        "rnk_karla": 4,
+        "rnk_andy": 4,
+        "rnk_juan": 4,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "IPxnq41QxW",
+        "name": "molida con arroz",
+        "ranking": "1.75",
+        "difficulty_ma": 2,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "lSb5J97Unj",
+                "name": "C. molida",
+                "cost": 20
+            },
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 27,
+        "lajwa": true,
+        "rnk_karla": 3,
+        "rnk_andy": 1,
+        "rnk_juan": 1,
+        "rnk_ma": 2,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "d1khtuajjR",
+        "name": "revuelto",
+        "ranking": "3.5",
+        "difficulty_ma": 5,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "lSb5J97Unj",
+                "name": "C. molida",
+                "cost": 20
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 35,
+        "lajwa": true,
+        "rnk_karla": 4,
+        "rnk_andy": 3,
+        "rnk_juan": 4,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "CgagyZl4oS",
+        "name": "pique",
+        "ranking": "4.75",
+        "difficulty_ma": 5,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "l3yWFOks9m",
+                "name": "C. pulpa",
+                "cost": 48
+            },
+            {
+                "ingredient_id": "ReWNEeTa0L",
+                "name": "Pollo",
+                "cost": 40
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "75MN4ucFbn",
+                "name": "salchicha",
+                "cost": 15
+            }
+        ],
+        "cost": 118,
+        "lajwa": true,
+        "rnk_karla": 5,
+        "rnk_andy": 5,
+        "rnk_juan": 5,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "10yXmDSqCp",
+        "name": "molida con spaguetti",
+        "ranking": "1.75",
+        "difficulty_ma": 2,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "lSb5J97Unj",
+                "name": "C. molida",
+                "cost": 20
+            },
+            {
+                "ingredient_id": "GzVZ0p7Xa8",
+                "name": "Spaguetti",
+                "cost": 10
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 34,
+        "lajwa": true,
+        "rnk_karla": 3,
+        "rnk_andy": 1,
+        "rnk_juan": 1,
+        "rnk_ma": 2,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "wgHp71Gq8F",
+        "name": "albondiga de lenteja",
+        "ranking": "3",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "peqRDSnwXy",
+                "name": "lentejas",
+                "cost": 5
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "wyK8aGX6Af",
+                "name": "huevo",
+                "cost": 7
+            }
+        ],
+        "cost": 22,
+        "lajwa": true,
+        "rnk_karla": 3,
+        "rnk_andy": 3,
+        "rnk_juan": 3,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "yyoBQItr6N",
+        "name": "papa con tortilla",
+        "ranking": "3.25",
+        "difficulty_ma": 3,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "wyK8aGX6Af",
+                "name": "huevo",
+                "cost": 7
+            }
+        ],
+        "cost": 19,
+        "lajwa": true,
+        "rnk_karla": 2,
+        "rnk_andy": 4,
+        "rnk_juan": 3,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "np6AugK3CR",
+        "name": "chairo",
+        "ranking": "4",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "CGJLTKK4ir",
+                "name": "chuño",
+                "cost": 6
+            },
+            {
+                "ingredient_id": "VlP8PoKVy7",
+                "name": "verduras",
+                "cost": 5
+            },
+            {
+                "ingredient_id": "1uG5w1Z2Yk",
+                "name": "Mani",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 19,
+        "lajwa": true,
+        "rnk_karla": 4,
+        "rnk_andy": 4,
+        "rnk_juan": 4,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "bw0sRC4hMO",
+        "name": "thimpu",
+        "ranking": "4.25",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "Ad0Mgqp0o1",
+                "name": "C. para thimpu",
+                "cost": 30
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "VlP8PoKVy7",
+                "name": "verduras",
+                "cost": 5
+            },
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 45,
+        "lajwa": false,
+        "rnk_karla": 5,
+        "rnk_andy": 3,
+        "rnk_juan": 5,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "99cuNNW4RH",
+        "name": "sajta",
+        "ranking": "3.75",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "ReWNEeTa0L",
+                "name": "Pollo",
+                "cost": 40
+            },
+            {
+                "ingredient_id": "CGJLTKK4ir",
+                "name": "chuño",
+                "cost": 6
+            },
+            {
+                "ingredient_id": "CGJLTKK4ir",
+                "name": "chuño",
+                "cost": 6
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "1uG5w1Z2Yk",
+                "name": "Mani",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "VlP8PoKVy7",
+                "name": "verduras",
+                "cost": 5
+            }
+        ],
+        "cost": 75,
+        "lajwa": false,
+        "rnk_karla": 1,
+        "rnk_andy": 5,
+        "rnk_juan": 5,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "bseV97UEoj",
+        "name": "Asado",
+        "ranking": "2",
+        "difficulty_ma": 3,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "l3yWFOks9m",
+                "name": "C. pulpa",
+                "cost": 48
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 55,
+        "lajwa": true,
+        "rnk_karla": 2,
+        "rnk_andy": 1,
+        "rnk_juan": 3,
+        "rnk_ma": 2,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "DEBvPlpR9u",
+        "name": "papa con sardina",
+        "ranking": "3.25",
+        "difficulty_ma": 1,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "olnJ96LKJR",
+                "name": "Sardina",
+                "cost": 20
+            }
+        ],
+        "cost": 32,
+        "lajwa": true,
+        "rnk_karla": 3,
+        "rnk_andy": 4,
+        "rnk_juan": 3,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "wPTlgUCDyB",
+        "name": "fricasé",
+        "ranking": "4.75",
+        "difficulty_ma": 3,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "jlG0QnS99f",
+                "name": "C. cerdo",
+                "cost": 100
+            },
+            {
+                "ingredient_id": "CGJLTKK4ir",
+                "name": "chuño",
+                "cost": 6
+            },
+            {
+                "ingredient_id": "cSVN5po3zq",
+                "name": "Mote",
+                "cost": 15
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "olnJ96LKJR",
+                "name": "Sardina",
+                "cost": 20
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            }
+        ],
+        "cost": 147,
+        "lajwa": false,
+        "rnk_karla": 5,
+        "rnk_andy": 5,
+        "rnk_juan": 5,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "AakhQacXTH",
+        "name": "pollo al horno",
+        "ranking": "2.75",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "ReWNEeTa0L",
+                "name": "Pollo",
+                "cost": 40
+            }
+        ],
+        "cost": 52,
+        "lajwa": true,
+        "rnk_karla": 1,
+        "rnk_andy": 3,
+        "rnk_juan": 4,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "WRe60FYQfH",
+        "name": "papas a la huancaina",
+        "ranking": "3.75",
+        "difficulty_ma": 3,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "MwnXnFKPAp",
+                "name": "Queso",
+                "cost": 24
+            },
+            {
+                "ingredient_id": "1uG5w1Z2Yk",
+                "name": "Mani",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "1uG5w1Z2Yk",
+                "name": "Mani",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "VlP8PoKVy7",
+                "name": "verduras",
+                "cost": 5
+            },
+            {
+                "ingredient_id": "wyK8aGX6Af",
+                "name": "huevo",
+                "cost": 7
+            }
+        ],
+        "cost": 65,
+        "lajwa": false,
+        "rnk_karla": 2,
+        "rnk_andy": 5,
+        "rnk_juan": 4,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "I1QwqQqceA",
+        "name": "trucha",
+        "ranking": "4",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "DRdt78QdoS",
+                "name": "Trucha",
+                "cost": 90
+            },
+            {
+                "ingredient_id": "cSVN5po3zq",
+                "name": "Mote",
+                "cost": 15
+            },
+            {
+                "ingredient_id": "rTnxmXOpvc",
+                "name": "Aji",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "CGJLTKK4ir",
+                "name": "chuño",
+                "cost": 6
+            }
+        ],
+        "cost": 122,
+        "lajwa": true,
+        "rnk_karla": 3,
+        "rnk_andy": 5,
+        "rnk_juan": 4,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "fyO7bg7lj1",
+        "name": "sopa de pollo",
+        "ranking": "3",
+        "difficulty_ma": 3,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "ReWNEeTa0L",
+                "name": "Pollo",
+                "cost": 40
+            },
+            {
+                "ingredient_id": "VlP8PoKVy7",
+                "name": "verduras",
+                "cost": 5
+            }
+        ],
+        "cost": 52,
+        "lajwa": true,
+        "rnk_karla": 1,
+        "rnk_andy": 4,
+        "rnk_juan": 4,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "ClbgWvYzvl",
+        "name": "chicharrón",
+        "ranking": "4.25",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "CGJLTKK4ir",
+                "name": "chuño",
+                "cost": 6
+            },
+            {
+                "ingredient_id": "cSVN5po3zq",
+                "name": "Mote",
+                "cost": 15
+            },
+            {
+                "ingredient_id": "jlG0QnS99f",
+                "name": "C. cerdo",
+                "cost": 100
+            }
+        ],
+        "cost": 125,
+        "lajwa": true,
+        "rnk_karla": 4,
+        "rnk_andy": 4,
+        "rnk_juan": 5,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "XmTbM4ivKy",
+        "name": "chuleta de cerdo",
+        "ranking": "3.5",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "jlG0QnS99f",
+                "name": "C. cerdo",
+                "cost": 100
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 107,
+        "lajwa": true,
+        "rnk_karla": 4,
+        "rnk_andy": 3,
+        "rnk_juan": 3,
+        "rnk_ma": 4,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "uq8bV2ib8k",
+        "name": "Milanesa de pollo",
+        "ranking": "3.25",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "ReWNEeTa0L",
+                "name": "Pollo",
+                "cost": 40
+            }
+        ],
+        "cost": 47,
+        "lajwa": true,
+        "rnk_karla": 1,
+        "rnk_andy": 5,
+        "rnk_juan": 4,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "prPSCbpWMs",
+        "name": "Arroz con huevo",
+        "ranking": "3",
+        "difficulty_ma": 1,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "wyK8aGX6Af",
+                "name": "huevo",
+                "cost": 7
+            }
+        ],
+        "cost": 10,
+        "lajwa": true,
+        "rnk_karla": 3,
+        "rnk_andy": 3,
+        "rnk_juan": 3,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "IAIZs9m4OV",
+        "name": "apanado",
+        "ranking": "2.75",
+        "difficulty_ma": 3,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "l3yWFOks9m",
+                "name": "C. pulpa",
+                "cost": 48
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 55,
+        "lajwa": false,
+        "rnk_karla": 3,
+        "rnk_andy": 2,
+        "rnk_juan": 3,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "AnsRmhgynP",
+        "name": "pollo dorado",
+        "ranking": "3",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "3CZLOMncH0",
+                "name": "Arroz",
+                "cost": 3
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "ReWNEeTa0L",
+                "name": "Pollo",
+                "cost": 40
+            }
+        ],
+        "cost": 47,
+        "lajwa": true,
+        "rnk_karla": 1,
+        "rnk_andy": 4,
+        "rnk_juan": 4,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "R8W0miXiPZ",
+        "name": "plato paceño",
+        "ranking": "3.75",
+        "difficulty_ma": 4,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "MwnXnFKPAp",
+                "name": "Queso",
+                "cost": 24
+            },
+            {
+                "ingredient_id": "PGSKTm5AU0",
+                "name": "Habas",
+                "cost": 5
+            },
+            {
+                "ingredient_id": "h0NMDPbi4y",
+                "name": "Choclo",
+                "cost": 20
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            },
+            {
+                "ingredient_id": "FHX2gIpb7B",
+                "name": "Papa",
+                "cost": 4
+            }
+        ],
+        "cost": 57,
+        "lajwa": true,
+        "rnk_karla": 4,
+        "rnk_andy": 5,
+        "rnk_juan": 3,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    },
+    {
+        "id": "JsmYAiTbK9",
+        "name": "sopa de fideo",
+        "ranking": "3.25",
+        "difficulty_ma": 3,
+        "difficulty_pa": 0,
+        "ingredients": [
+            {
+                "ingredient_id": "EEEthcHeqL",
+                "name": "Fideo",
+                "cost": 3.5
+            },
+            {
+                "ingredient_id": "VlP8PoKVy7",
+                "name": "verduras",
+                "cost": 5
+            },
+            {
+                "ingredient_id": "gkbFFtjdiN",
+                "name": "C. huesos",
+                "cost": 10
+            }
+        ],
+        "cost": 18.5,
+        "lajwa": true,
+        "rnk_karla": 3,
+        "rnk_andy": 3,
+        "rnk_juan": 4,
+        "rnk_ma": 3,
+        "rnk_pa": 0,
+        "other": ""
+    }
+]

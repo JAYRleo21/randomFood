@@ -1,0 +1,192 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+*::-webkit-scrollbar {
+  background: rgba(54, 57, 63, 0.1);
+  width: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background: rgba(54, 57, 63, 0.1);
+  width: 8px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #ED1B24;
+  border-radius: 4px;
+  width: 8px;
+}
+
+html {
+  min-height: 100vh;
+}
+
+html, body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body {
+  background: #ED1B24;
+  color: #36393F;
+  font-family: 'Rubik', sans-serif;
+  margin: 0;
+  padding: 1.5rem;
+}
+
+main {
+  background: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: auto;
+  max-width: 30rem;
+  min-height: 80vh;
+  max-height: calc(100vh - 4rem);
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.container {
+  padding: 2rem;
+  width: 100%;
+}
+
+form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 1rem;
+  margin: 0 0 4rem;
+  width: 100%;
+}
+
+form .c-cost {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 1rem;
+  font-weight: bold;
+}
+
+form .c-cost input {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  -webkit-appearance: none;
+  width: 100%;
+  background: transparent;
+}
+
+form .c-cost input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+}
+
+form .c-cost input:focus {
+  outline: none;
+}
+
+form .c-cost input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 1.5rem;
+  height: 2rem;
+  border-radius: 0.5rem;
+  background: #ED1B24;
+  cursor: pointer;
+  margin-top: -.75rem;
+  /* You need to specify a margin in Chrome, but in Firefox and IE it is automatic */
+}
+
+form .c-cost input::-webkit-slider-runnable-track {
+  width: 100%;
+  height: .5rem;
+  cursor: pointer;
+  background: #FDAF17;
+  border-radius: .25rem;
+}
+
+form .c-cost input:focus::-webkit-slider-runnable-track {
+  background: #FDAF17;
+}
+
+form button {
+  background: #ED1B24;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  display: block;
+  margin: 2rem auto 0;
+  width: 5rem;
+  height: 5rem;
+}
+
+h2 {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+h5 {
+  border-bottom: 2px solid #36393F;
+  font-size: 1rem;
+  margin: 0 0 .5rem;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+details {
+  margin: 0 auto;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+details summary span {
+  font-weight: bold;
+}
+
+.result {
+  margin: 0 auto .5rem;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.result ul {
+  counter-reset: listCounter;
+  list-style: none;
+  margin: 0 auto 1rem;
+  padding: 0;
+}
+
+.result ul li {
+  counter-increment: listCounter;
+  position: relative;
+  padding-left: 1rem;
+  text-transform: capitalize;
+}
+
+.result ul li::before {
+  content: counter(listCounter) ".";
+  font-size: .75rem;
+  position: absolute;
+  left: 0;
+  margin-top: .25rem;
+}
+/*# sourceMappingURL=styles.css.map */

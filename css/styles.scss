@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+//COLOR
+$red: #ED1B24;
+$orange: #FDAF17;
+$yellow: #FFF100;
+$gray: #36393F;
+
+//RESET
+*{
+  box-sizing: border-box;
+  &::-webkit-scrollbar {
+    background: rgba($gray, .1);
+    width: 8px;
+  }
+  &::-webkit-scrollbar-track {
+    background: rgba($gray, .1);
+    width: 8px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: $red;
+    border-radius: 4px;
+    width: 8px;
+  }
+}
+html{
+  min-height: 100vh;
+}
+html, body{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+body{
+  background: $red;
+  color: $gray;
+  font-family: 'Rubik', sans-serif;
+  margin: 0;
+  padding: 1.5rem;
+}
+
+main{
+  background: white;
+  display: flex;
+  margin: auto;
+  max-width: 30rem;
+  min-height: 80vh;
+  max-height: calc(100vh - 4rem);
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.container{
+  padding: 2rem;
+  width: 100%;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 0 0 4rem;
+  width: 100%;
+  .c-cost{
+    display: flex;
+    gap: 1rem;
+    font-weight: bold;
+    input{
+      flex: 1;
+      -webkit-appearance: none;
+      width: 100%;
+      background: transparent;
+      &::-webkit-slider-thumb {
+        -webkit-appearance: none;
+      }
+      &:focus {
+        outline: none;
+      }
+      &::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        width: 1.5rem;
+        height: 2rem;
+        border-radius: 0.5rem;
+        background: $red;
+        cursor: pointer;
+        margin-top: -.75rem; /* You need to specify a margin in Chrome, but in Firefox and IE it is automatic */
+      }
+      &::-webkit-slider-runnable-track {
+        width: 100%;
+        height: .5rem;
+        cursor: pointer;
+        background: $orange;
+        border-radius: .25rem;
+      }
+      &:focus::-webkit-slider-runnable-track {
+        background: $orange;
+      }
+    }
+  }
+  button{
+    background: $red;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    display: block;
+    margin: 2rem auto 0;
+    width: 5rem;
+    height: 5rem;
+  }
+}
+
+h2{
+  text-transform: capitalize;
+  text-align: center;
+}
+
+h5{
+  border-bottom: 2px solid $gray;
+  font-size: 1rem;
+  margin: 0 0 .5rem;
+  width: fit-content;
+}
+
+details{
+  margin: 0 auto;
+  width: fit-content;
+  summary{
+    span{
+      font-weight: bold;
+    }
+  }
+}
+
+.result{
+  margin: 0 auto .5rem;
+  width: fit-content;
+  ul{
+    counter-reset: listCounter;
+    list-style: none;
+    margin: 0 auto 1rem;
+    padding: 0;
+    li{
+      counter-increment: listCounter;
+      position: relative;
+      padding-left: 1rem;
+      text-transform: capitalize;
+      &::before{
+        content: counter(listCounter) '.';
+        font-size: .75rem;
+        position: absolute;
+        left: 0;
+        margin-top: .25rem;
+      }
+    }
+  }
+}

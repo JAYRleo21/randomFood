@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random food</title>
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+
+<body>
+  <main id="vueapp">
+    <div class="container">
+      <form v-on:submit.prevent="getDish">
+        <div class="c-cost" v-if="cost">
+          <input type="range" name="cost" id="cost" :max="maxCost" :min="minCost" v-model="cost">
+          <span v-text="cost + ' Bs.'"></span>
+        </div>
+        <button></button>
+      </form>
+      <div class="result" v-if="dish">
+        <h2 v-text="dish?.name"></h2>
+        <h5>Ingredientes</h5>
+        <ul>
+          <li v-for="item in dish.ingredients" v-text="item.name"></li>
+        </ul>
+      </div>
+      <details v-if="totalOptions">
+        <summary>Ver todas las opciones <span v-text="totalOptions.length"></span></summary>
+        <ul>
+          <li v-for="item in totalOptions" v-text="item.name"></li>
+        </ul>
+      </details>
+    </div>
+  </main>
+  <script src="js/vue.global.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
