@@ -19,6 +19,7 @@ const App = {
       fetch('./assets/data.json')
       .then(response => response.json())
       .then(data => {
+        console.log("dishes", data);
         this.dishes = data;
         this.maxCost = data.reduce((prev, current) => (prev.cost > current.cost) ? prev : current).cost;
         this.minCost = data.reduce((prev, current) => (prev.cost < current.cost) ? prev : current).cost;

@@ -64,6 +64,18 @@ main {
   width: 100%;
 }
 
+h1 {
+  color: #36393F;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+
+h4 {
+  color: #36393F;
+  font-size: 1.25rem;
+  margin: 0 0 .5rem;
+}
+
 form {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -129,11 +141,22 @@ form button {
   background: #ED1B24;
   border: none;
   border-radius: 50%;
+  color: white;
   cursor: pointer;
-  display: block;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.25rem;
+  font-weight: bold;
   margin: 2rem auto 0;
-  width: 5rem;
-  height: 5rem;
+  width: 6rem;
+  height: 6rem;
 }
 
 h2 {

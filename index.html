@@ -5,19 +5,22 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Random food</title>
+  <title>¿Qué cocino?</title>
+  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="./css/styles.css">
 </head>
 
 <body>
   <main id="vueapp">
     <div class="container">
+      <h1>¿Qué cocino?</h1>
       <form v-on:submit.prevent="getDish">
+        <h4>Costo máximo aproximado</h4>
         <div class="c-cost" v-if="cost">
           <input type="range" name="cost" id="cost" :max="maxCost" :min="minCost" v-model="cost">
           <span v-text="cost + ' Bs.'"></span>
         </div>
-        <button></button>
+        <button><span>Sortear</span></button>
       </form>
       <div class="result" v-if="dish">
         <h2 v-text="dish?.name"></h2>

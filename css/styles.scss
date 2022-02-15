@@ -56,6 +56,18 @@ main{
   width: 100%;
 }
 
+h1{
+  color: $gray;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+
+h4{
+  color: $gray;
+  font-size: 1.25rem;
+  margin: 0 0 .5rem;
+}
+
 form{
   display: flex;
   flex-direction: column;
@@ -102,11 +114,16 @@ form{
     background: $red;
     border: none;
     border-radius: 50%;
+    color: white;
     cursor: pointer;
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    font-weight: bold;
     margin: 2rem auto 0;
-    width: 5rem;
-    height: 5rem;
+    width: 6rem;
+    height: 6rem;
   }
 }
 
